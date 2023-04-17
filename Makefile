@@ -7,4 +7,4 @@ EnigmaCracker.o: EnigmaCracker.cpp EnigmaCracker.h
 Enigma.o: Enigma.cpp Enigma.h
 	g++ ${CPP_FLAGS} -c Enigma.cpp 
 clean:
-	rm -f *.o main *.txt
+	rm -f *.o main
