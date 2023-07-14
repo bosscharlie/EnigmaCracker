@@ -1,4 +1,4 @@
-# Enigma密码机破解
+# 清华大学2023春数据安全作业 - Enigma密码机破解
 
 包含两种Rejweski和Turing的两种破解方式
 
